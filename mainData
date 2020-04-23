@@ -1,0 +1,284 @@
+{
+  "Data": [
+    {
+      "Name": "Software Sudheer",
+      "Added": "13/01/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.sunnxt.com/movie/inside/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.5/5",
+      "Type": "Movie",
+      "Language": "Telugu"
+    },
+    {
+      "Name": "90 ML",
+      "Added": "13/05/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.sunnxt.com/movie/inside/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.5/5",
+      "Type": "Movie",
+      "Language": "Telugu"
+    },
+    {
+      "Name": "Venky Mama",
+      "Added": "13/05/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.sunnxt.com/movie/inside/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.75/5",
+      "Type": "Web Series",
+      "Language": "Telugu"
+    },
+    {
+      "Name": "Bala",
+      "Added": "16/01/2020",
+      "Platform": [
+        {
+          "Name": "Hotstar",
+          "Value": "https://www.Hotstar.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2/5",
+      "Type": "Movie",
+      "Language": "Hindi"
+    },
+    {
+      "Name": "Hero",
+      "Added": "18/01/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+    {
+      "Name": "Porinju Mariam Jose",
+      "Added": "29/01/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.75/5",
+      "Type": "Movie",
+      "Language": "Maliyalam"
+    },
+    {
+      "Name": "Drving Licence",
+      "Added": "29/01/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Maliyalam"
+    },
+    {
+      "Name": "Uncut Gems",
+      "Added": "30/01/2020",
+      "Platform": [
+        {
+          "Name": "Netflix",
+          "Value": "https://www.Netflix.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "English"
+    },
+    {
+      "Name": "Pati Patni Aur Woh",
+      "Added": "30/01/2020",
+      "Platform": [
+        {
+          "Name": "Netflix",
+          "Value": "https://www.Netflix.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Hindi"
+    },
+    {
+      "Name": "37 Seconds",
+      "Added": "16/01/2020",
+      "Platform": [
+        {
+          "Name": "Netflix",
+          "Value": "https://www.Netflix.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Hindi"
+    },
+    {
+      "Name": "Avane Srimannarayana",
+      "Added": "01/02/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Kannada"
+    },
+    {
+      "Name": "Once upon A Time in Hollywood",
+      "Added": "02/02/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "English"
+    },
+    {
+      "Name": "Sillu Karupatti",
+      "Added": "02/02/2020",
+      "Platform": [
+        {
+          "Name": "Netflix",
+          "Value": "https://www.Netflix.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+    {
+      "Name": "Thambi",
+      "Added": "03/02/2020",
+      "Platform": [
+        {
+          "Name": "Netflix",
+          "Value": "https://www.Netflix.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.5/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+    {
+      "Name": "Prathi Roju Pandage",
+      "Added": "03/02/2020",
+      "Platform": [
+        {
+          "Name": "Hotstar",
+          "Value": "https://www.Hotstar.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.5/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+    {
+      "Name": "Chola",
+      "Added": "05/02/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.75/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+	    {
+      "Name": "Khaidi",
+      "Added": "28/02/2020",
+      "Platform": [
+        {
+          "Name": "Aha",
+          "Value": "https://www.Aha.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.75/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+	    {
+      "Name": "Hit",
+      "Added": "28/02/2020",
+      "Platform": [
+        {
+          "Name": "Aha",
+          "Value": "https://www.Aha.com/"
+        },
+		 {
+          "Name": "Netflix",
+          "Value": "https://www.Aha.com/"
+        },
+		
+		 {
+          "Name": "Prime",
+          "Value": "https://www.Aha.com/"
+        },
+		
+		 {
+          "Name": "JioCinema",
+          "Value": "https://www.Aha.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "2.75/5",
+      "Type": "Movie",
+      "Language": "Tamil"
+    },
+	    {
+      "Name": "Trance",
+      "Added": "28/02/2020",
+      "Platform": [
+        {
+          "Name": "Prime",
+          "Value": "https://www.Prime.com/"
+        }
+      ],
+      "Image": "https://www.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/09/17/Pictures/_69e0499a-d917-11e9-aefb-e5600836c7fe.jpg",
+      "Rating": "3/5",
+      "Type": "Movie",
+      "Language": "Maliyalam"
+    }
+  ]
+}
